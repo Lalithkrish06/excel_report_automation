@@ -259,12 +259,19 @@ Building intelligent systems • AI applications • Automation • Data-driven 
 
 ## 🔗 Project Links
 
-| 🔗 Resource | Link |
-|---|---|
-| 📊 **Sample Excel Report** | [View Report](https://1drv.ms/x/c/0667eb20028f8fa8/IQCbufVTJBEbR408r8vU51I0AWjvE1qCY9Pd-w7IhKuAZqI?e=tDDoMV) |
-| 💼 **LinkedIn** | [Lalith Krish](https://www.linkedin.com/in/lalithkrish-data/) |
-| 🐙 **GitHub** | [Lalithkrish06](https://github.com/Lalithkrish06) |
-| 🌐 **Portfolio** | [lalithkrish.dev](https://lalithkrish.dev/) |
+<div align="center">
+
+<a href="https://github.com/Lalithkrish06/">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Lalithkrish06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://lalithkrish.dev/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-lalithkrish.dev-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/lalithkrish-data">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Lalith%20Krish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
 
 ---
 
